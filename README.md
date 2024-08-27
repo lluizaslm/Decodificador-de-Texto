@@ -6,6 +6,6 @@ Desafio resolvido para Alura + ONE, um simples decodificador de texto que utiliz
 * **Descriptografia**: Reverte o texto criptografado para o texto original.
 * **Copiar**: Permite copiar o texto criptografado ou descriptografado para a área de transferência.
 
-## Visualização inicial
-* ![alt text](image.png)
+## Visualização 
+ ![alt text](imagem.png)
 
