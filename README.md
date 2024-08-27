@@ -7,5 +7,5 @@ Desafio resolvido para Alura + ONE, um simples decodificador de texto que utiliz
 * **Copiar**: Permite copiar o texto criptografado ou descriptografado para a área de transferência.
 
 ## Visualização inicial
-
+* ![alt text](image.png)
 
